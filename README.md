@@ -1,5 +1,7 @@
 AI-Powered Multilingual Voice Translator  
 
+- ![image alt](https://github.com/ShiruvatiNarasimha/AI-Voice-Translator/blob/29e6acd31d77fa258cfd94ecc84a6649bb9d4c4f/Screenshot%202024-11-24%20191728.png)
+
 ## Overview  
 This project is a *real-time voice translation system* designed to facilitate seamless communication across multiple languages. Using advanced AI technologies, the system transcribes speech, translates it, and reproduces the voice output in a natural, expressive tone while retaining the speaker's original style and emotion.  
 
@@ -10,7 +12,7 @@ This project is a *real-time voice translation system* designed to facilitate se
 - *Multilingual Support*: Enables communication in diverse languages.  
 - *Personalized Output*: Retains the speaker's tone and voice style for familiarity.
 
-- ![image alt](https://github.com/ShiruvatiNarasimha/landing-page/blob/91c025de1552dc2eec7617c56d397e497b9f227d/Screenshot%20(198).png)
+
 
 ## Technologies Used  
 - *Programming Language*: Python  
