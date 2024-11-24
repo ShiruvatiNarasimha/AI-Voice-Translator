@@ -8,7 +8,9 @@ This project is a *real-time voice translation system* designed to facilitate se
 - *Voice Recognition: High-accuracy transcription using **Assembly AI*.  
 - *Natural Voice Output: Generates expressive, natural-sounding speech with **ElevenLabs*.  
 - *Multilingual Support*: Enables communication in diverse languages.  
-- *Personalized Output*: Retains the speaker's tone and voice style for familiarity.  
+- *Personalized Output*: Retains the speaker's tone and voice style for familiarity.
+
+- ![image alt](https://github.com/ShiruvatiNarasimha/landing-page/blob/91c025de1552dc2eec7617c56d397e497b9f227d/Screenshot%20(198).png)
 
 ## Technologies Used  
 - *Programming Language*: Python  
