@@ -1,4 +1,4 @@
-# AI-Powered Multilingual Voice Translator  
+AI-Powered Multilingual Voice Translator  
 
 ## Overview  
 This project is a *real-time voice translation system* designed to facilitate seamless communication across multiple languages. Using advanced AI technologies, the system transcribes speech, translates it, and reproduces the voice output in a natural, expressive tone while retaining the speaker's original style and emotion.  
@@ -21,3 +21,52 @@ This project is a *real-time voice translation system* designed to facilitate se
    ```bash
    git clone https://github.com/yourusername/voice-translator.git
    cd voice-translator
+
+2. Create a virtual environment:
+
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+
+3. Install dependencies:
+
+pip install -r requirements.txt
+
+
+
+Usage
+
+1. Obtain API keys for Assembly AI and ElevenLabs.
+
+
+2. Add your API keys to an .env file:
+
+ASSEMBLYAI_API_KEY=your_assemblyai_key
+ELEVENLABS_API_KEY=your_elevenlabs_key
+
+
+3. Run the application:
+
+python main.py
+
+
+4. Speak into your microphone, and the system will process and translate your voice in real time.
+
+
+
+Contributing
+
+Contributions are welcome! Feel free to fork the repository and submit pull requests.
+
+License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Acknowledgements
+
+Assembly AI
+
+ElevenLabs
+
+
+Replace "yourusername" in the GitHub URL and add a requirements.txt file if needed.
